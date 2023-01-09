@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>admin</name>
-	      <url>http://44.203.174.76:8081/repository/uba-release/</url>
+	      <url>http://44.203.174.76:8081/repository/rbc-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>admin</name>
-	      <url>http://44.203.174.76:8081/repository/uba-snapshot/</url>
+	      <url>http://44.203.174.76:8081/repository/rbc-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
