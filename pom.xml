@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>admin</name>
-	      <url>http://44.203.174.76:8081/repository/rbc-release/</url>
+	      <url>http://44.203.174.76:8081/repository/RBCAPP-RELEASE/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>admin</name>
-	      <url>http://44.203.174.76:8081/repository/rbc-snapshot/</url>
+	      <url>http://44.203.174.76:8081/repository/RBCAPP-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
